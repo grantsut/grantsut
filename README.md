@@ -1,3 +1,3 @@
 Hi, I'm Grant.
 
-I know a lot about brains and quite a few things about data analysis, machine learning and Python too. 
+Most of my repositories are either associated with non-public data or not of general interest, but I'll make things public if I think anyone else might find them useful.
