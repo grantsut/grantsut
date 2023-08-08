@@ -1,3 +1,1 @@
-Hi, I'm Grant.
-
-Most of my repositories are either associated with non-public data or not of general interest, but I'll make things public if I think anyone else might find them useful.
+Hi, I'm Grant. This is where I put my personal projects, some of which I will share with you!
